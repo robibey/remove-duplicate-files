@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+test/t1/2220.jpg
+test/t1/2225.jpg
+test/t1/2226.jpg
+test/t1/2252.jpg
+test/t1/2254.jpg
+test/t1/2263.jpg
+test/t2/2225.jpg
+test/t2/v gu.jpg
+test/t2/da/2220.jpg
